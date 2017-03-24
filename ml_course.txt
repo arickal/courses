@@ -1,0 +1,21 @@
+A.Machine Learning Basic Training
+  1)[Udacity Course]: For Machine Learning to Deep Learning(~Quiz: Numerical Stability)
+  2)[實作TF check point] https://www.tensorflow.org/get_started/get_started/ 
+  3)[Hung-yi Lee’s material]: page:4-8 16-18
+  4)[小Demo]Tensorflow playground(link)
+  5)[實作TF check point] https://www.tensorflow.org/get_started/mnist/beginners 
+  6)[實作Udacity check point] notMNIST https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/2_fullyconnected.ipynb 
+  7)[Udacity Cource]: For Machine Learning to Deep Learning(~Finished)
+  8)[Hung-yi Lee’s material]: page:9-15 19-31
+●
+B.Deep Learning(CNN) and Tensorflow Basic Training
+  1)[Udacity Course]: Deep Neural Networks
+  2)[Hung-yi Lee’s material]: page:23-72
+  3)[Udacity Course]: Convolution Neural Networks
+  4)[實作TF check point] https://www.tensorflow.org/get_started/mnist/pros 
+  5)[實作Udacity check point] https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/4_convolutions.ipynb 
+●
+C.Tensorflow Advanced Training
+  1)Tensorflow 101 https://www.tensorflow.org/get_started/mnist/mechanics 
+  2)TensorBoard https://www.tensorflow.org/get_started/summaries_and_tensorboard 
+  3)[實作TF check point] https://www.tensorflow.org/tutorials/deep_cnn 
