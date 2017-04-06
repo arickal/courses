@@ -19,3 +19,6 @@ C.Tensorflow Advanced Training
   1)Tensorflow 101 https://www.tensorflow.org/get_started/mnist/mechanics 
   2)TensorBoard https://www.tensorflow.org/get_started/summaries_and_tensorboard 
   3)[實作TF check point] https://www.tensorflow.org/tutorials/deep_cnn 
+
+Tank recognition problem:
+  http://www.jefftk.com/p/detecting-tanks
